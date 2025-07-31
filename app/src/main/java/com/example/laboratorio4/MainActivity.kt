@@ -13,6 +13,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.laboratorio4.ui.theme.Laboratorio4Theme
 
+data class mascota(val id: Int, val nombre: String, val raza: String, val imagen: Int)
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
