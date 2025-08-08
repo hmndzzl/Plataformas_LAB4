@@ -1,4 +1,11 @@
 // MainActivity.kt
+
+// Universidad del Valle
+// Programación de Plataformas Móviles
+// Sección 20
+// Laboratorio 4
+// Hugo Méndez Lee - 241265
+
 package com.example.laboratorio4
 
 import android.os.Bundle
